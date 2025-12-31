@@ -5,7 +5,7 @@
   <div class="pricing-card">
     <div class="pricing-title">流量光机场*<span style="color: red;">注册需翻墙</span>*</div>
     <div class="pricing-price">4.90 <span class="pricing-unit">每月</span></div>
-    <a href="https://llgjc1.com/#/register?code=X4BNUzBu" target="_blank" class="buy-button">
+    <a href="https://c.jichangs.llgjc" target="_blank" class="buy-button">
       <i class="icon-cart"></i> 立即购买
     </a>
     
